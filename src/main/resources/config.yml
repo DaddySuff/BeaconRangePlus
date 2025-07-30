@@ -1,0 +1,8 @@
+# Default beacon effect range (in blocks)
+default-range: 50
+
+# Per-beacon custom ranges
+beacons:
+# Format: "world,x,y,z": range
+# Example:
+# "world,100,64,200": 75
