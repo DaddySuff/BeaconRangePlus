@@ -2,7 +2,7 @@ name: BeaconRangePlus
 version: 1.0
 main: com.suff.beaconrangeplus.BeaconRangePlus
 api-version: 1.21
-description: Customize beacon effect ranges on your server
+description: Customize beacon effect ranges
 author: Suff
 prefix: BeaconRange
 
